@@ -1,12 +1,12 @@
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ - IFPA
 ========================================================================
 
-TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-Programação Web
-Professor: Daniel Ferraz
-Aluno: Josué Batista
-14/09/2020 23H17
-Obs.:  - Formulário de Fornecedor
+*TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+*Programação Web
+*Professor: Daniel Ferraz
+*Aluno: Josué Batista
+*14/09/2020 23H17
+*Obs.:  - Formulário de Fornecedor
 
 ========================================================================
 Site desenvolvido em Bootstrap 4 Atualmente v4.4.1 - HTML/CSS/JavaScript
