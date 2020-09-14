@@ -2,13 +2,11 @@ INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARÁ - IFPA
 ========================================================================
 
 TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-Desenvolvimento Web II
-Professor: Paulo César
+Programação Web
+Professor: Daniel Ferraz
 Aluno: Josué Batista
-28/04/2020 23H17
-Obs.: Site fictício de uma Instituição de Ensino Gratuito (JobsTI Instituto),
-desenvolvido figurativamente pela HARPIA SOFTWARES (empresa que eu, Jardel e o
- Tiago queremos criar no futuro) - harpiasoftwares.com
+14/09/2020 23H17
+Obs.:  - Formulário de Fornecedor
 
 ========================================================================
 Site desenvolvido em Bootstrap 4 Atualmente v4.4.1 - HTML/CSS/JavaScript
@@ -45,7 +43,7 @@ CRÉDITOS
 MEUS LINKS
 ----------
 
-<!--
+
 *JOBSTI - LINKS
 28.04.2020
 
@@ -78,4 +76,4 @@ http://icon-works.com/
 *Paletas de cores
 https://www.materialui.co/colors
 https://www.materialpalette.com/
--->
+
